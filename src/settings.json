@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Premium Cars at Your Fingertips. Effortless Booking, Unmatched Quality.",
+        "title": "Experience Sophisticated Car Renting"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Premium Cars at Your Fingertips. Effortless Booking, Unmatched Quality.",
+        "title": "Experience Sophisticated Car Renting"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Premium Cars at Your Fingertips. Effortless Booking, Unmatched Quality.",
+        "title": "Experience Sophisticated Car Renting"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Premium Cars at Your Fingertips. Effortless Booking, Unmatched Quality.",
+        "title": "Experience Sophisticated Car Renting"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Premium Cars at Your Fingertips. Effortless Booking, Unmatched Quality.",
+        "title": "Experience Sophisticated Car Renting"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Premium Cars at Your Fingertips. Effortless Booking, Unmatched Quality.",
+        "title": "Experience Sophisticated Car Renting"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Premium Cars at Your Fingertips. Effortless Booking, Unmatched Quality.",
+        "title": "Experience Sophisticated Car Renting"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Premium Cars at Your Fingertips. Effortless Booking, Unmatched Quality.",
+        "title": "Experience Sophisticated Car Renting"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Experience Sophisticated Car Renting",
+  "subtitle": "Premium Cars at Your Fingertips. Effortless Booking, Unmatched Quality."
+}
